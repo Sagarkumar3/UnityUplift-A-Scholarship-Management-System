@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assests/images/banner.png" width="100%" alt="UnityUplift Banner"/>
+  <img src="assests/images/Banner.png" width="100%" alt="UnityUplift Banner"/>
 </p>
 
 <h1 align="center">UnityUplift</h1>
